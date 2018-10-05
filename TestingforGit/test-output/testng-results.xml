@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="15055" started-at="2018-10-05T15:38:06Z" finished-at="2018-10-05T15:38:21Z">
+  <suite name="Default suite" duration-ms="10045" started-at="2018-10-05T17:03:38Z" finished-at="2018-10-05T17:03:48Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="15055" started-at="2018-10-05T15:38:06Z" finished-at="2018-10-05T15:38:21Z">
-      <class name="testingforGit.WindowHandling">
-        <test-method status="PASS" signature="tere()[pri:0, instance:testingforGit.WindowHandling@548a9f61]" name="tere" duration-ms="15037" started-at="2018-10-05T15:38:06Z" finished-at="2018-10-05T15:38:21Z">
+    <test name="Default test" duration-ms="10045" started-at="2018-10-05T17:03:38Z" finished-at="2018-10-05T17:03:48Z">
+      <class name="testingforGit.AllertTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:testingforGit.AllertTest@548a9f61]" name="test" duration-ms="10028" started-at="2018-10-05T17:03:38Z" finished-at="2018-10-05T17:03:48Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- tere -->
-      </class> <!-- testingforGit.WindowHandling -->
+        </test-method> <!-- test -->
+      </class> <!-- testingforGit.AllertTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

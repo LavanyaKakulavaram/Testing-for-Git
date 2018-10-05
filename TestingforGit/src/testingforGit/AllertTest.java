@@ -22,7 +22,7 @@ public class AllertTest {
 	art.accept();
 	System.out.println("Allert Messageis : "+allertMessage);
 	String AfterAccept=driver.switchTo().alert().getText();
-	System.out.println(AfterAccept);
+	System.out.println("After Accept "+AfterAccept);
 	art.accept();
 	
 	
