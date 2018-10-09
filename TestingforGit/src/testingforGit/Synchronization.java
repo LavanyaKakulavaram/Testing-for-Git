@@ -27,6 +27,7 @@ public class Synchronization {
 		        Dest.sendKeys("nyc");
 
 		System.out.println("H-destination:"+Dest.getText());
+		System.out.println("Destination");
 
 		driver.findElement(By.id("H-destination")).sendKeys(Keys.TAB);
 		WebDriverWait wait=new WebDriverWait(driver,20);
