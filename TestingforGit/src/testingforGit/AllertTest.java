@@ -21,6 +21,7 @@ public class AllertTest {
 	String allertMessage=driver.switchTo().alert().getText();
 	art.accept();
 	System.out.println("Allert Messageis : "+allertMessage);
+	System.out.println(allertMessage);
 	String AfterAccept=driver.switchTo().alert().getText();
 	System.out.println("After Accept "+AfterAccept);
 	art.accept();

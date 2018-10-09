@@ -22,6 +22,7 @@ public void test()
 		for(int i=0;i<it.size()-1;i++)
 		{
 			System.out.println(it.get(i).getText());
+			System.out.println(i);
 		}
 
 	}
